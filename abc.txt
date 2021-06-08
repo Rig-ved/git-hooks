@@ -3,3 +3,5 @@ Hey again
 Hey again I am in the detached Head state
 last commit
 Check post commit hook
+Added pre hook commit
+

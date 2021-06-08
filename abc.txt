@@ -2,3 +2,4 @@ Hey I am new file in the master branch
 Hey again
 Hey again I am in the detached Head state
 last commit
+Check post commit hook

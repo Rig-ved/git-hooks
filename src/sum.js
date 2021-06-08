@@ -1,2 +1,3 @@
-const sum=(a,b)=>a+b+b;
-module.exports =  sum
+/* eslint-disable linebreak-style */
+const sum = (a, b) => a + b;
+module.exports = sum;
